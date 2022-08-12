@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1778889"
-     inkscape:cx="355.78786"
-     inkscape:cy="207.73474"
+     inkscape:cx="445.30976"
+     inkscape:cy="272.61982"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -256,13 +256,6 @@
        transform="rotate(70)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect1807"
-       width="11.2"
-       height="3.2"
-       x="163.90001"
-       y="103.9" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect7467"
        width="8.1999998"
        height="3.2"
@@ -309,5 +302,12 @@
        x="24.196426"
        y="87.550972"
        transform="rotate(-55)" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2"
+       id="rect112"
+       width="11"
+       height="3"
+       x="164"
+       y="104" />
   </g>
 </svg>
