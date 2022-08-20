@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="front.svg">
+   sodipodi:docname="front_outer.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.9291246"
-     inkscape:cx="373.72912"
-     inkscape:cy="242.78568"
+     inkscape:zoom="1.4645623"
+     inkscape:cx="434.0894"
+     inkscape:cy="272.3172"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -66,7 +66,7 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="0,197"
+       position="0,202"
        orientation="0,1"
        id="guide18"
        inkscape:label=""
@@ -244,6 +244,20 @@
        inkscape:label=""
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,257"
+       orientation="0,1"
+       id="guide101"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="69,297"
+       orientation="-1,0"
+       id="guide145"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -263,14 +277,14 @@
      id="layer1">
     <path
        style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 99.999997,110 H 55 L 36.98132,100 34.844971,98.766578 89.997924,20 99.578449,10.602038 136.13998,36.202696 155.2931,88.825477 180,104 v 6 z"
+       d="M 55,110 34.844971,98.766578 89.997924,20 99.578449,10.602038 136.13998,36.202696 180,104 v 6 z"
        id="path38"
-       sodipodi:nodetypes="ccccccccccc" />
+       sodipodi:nodetypes="cccccccc" />
     <circle
        style="opacity:0.989413;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4695"
        cx="69"
-       cy="100"
+       cy="95"
        r="3.5" />
     <circle
        id="path14"
@@ -366,5 +380,21 @@
        x="24.196409"
        y="87.550964"
        transform="rotate(-55)" />
+    <circle
+       style="opacity:0.989413;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4695-3"
+       cx="100"
+       cy="40"
+       r="3.5" />
+    <path
+       id="path994-3-2"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 102,28.000001 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+       inkscape:transform-center-y="-22.999981" />
+    <path
+       id="path994-3-6"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 57,95.000001 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z"
+       inkscape:transform-center-y="-22.999981" />
   </g>
 </svg>

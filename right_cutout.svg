@@ -52,7 +52,7 @@
        inkscape:locked="false"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="0,184"
+       position="0,187"
        orientation="0,1"
        id="guide1720"
        inkscape:label=""
@@ -216,8 +216,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 23,23.000001 h 7 v -3 h 7 v 3 h 2.999999 V 63 H 84.999998 V 23.000001 H 90 v -3 h 7 v 3 h 5 V 113 h -5 v 3 h -7 v -3 H 77 v 3 h -7 v -3 H 57 v 3 h -7 v -3 H 37 v 3 h -7 v -3 h -7 z"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23,23.000001 h 7 v -3 h 7 v 3 h 2.999999 V 63 H 84.999998 V 23.000001 H 90 v -3 h 7 v 3 h 5 L 102,110 h -5 l 0,6 h -7 l 0,-6 H 77 l 0,6 h -7 l 0,-6 H 57 l 0,6 h -7 l 0,-6 H 37 l 0,6 h -7 l 0,-6 h -7 z"
        id="path2404"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
   </g>

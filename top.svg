@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.2992092"
-     inkscape:cx="86.476577"
-     inkscape:cy="31.21107"
+     inkscape:cx="85.458948"
+     inkscape:cy="118.74897"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -185,5 +185,19 @@
        style="opacity:0.989413;fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 10,10 5,10e-7 V 7.0000008 h 8 v 3.0000002 h 8 V 7.0000008 h 8 v 3.0000002 h 5.5 v 40 H 10 v -5 H 7 v -8 h 3 v -14 H 7 v -8 h 3 z"
        sodipodi:nodetypes="ccccccccccccccccccccc" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1146"
+       width="8"
+       height="3"
+       x="15"
+       y="42" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1148"
+       width="8"
+       height="3"
+       x="31"
+       y="42" />
   </g>
 </svg>
